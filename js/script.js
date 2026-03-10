@@ -3,7 +3,7 @@ const btn = document.getElementById("cta");
 
 if(btn){
     btn.addEventListener("click", () => {
-    alert("JavaScript fonctionne !");
+    window.location.href = "blog.html";
     });
 }
 

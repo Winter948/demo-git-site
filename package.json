@@ -1,0 +1,8 @@
+{
+    "name":"demo-git-site",
+    "version":"1.0.0",
+    "scripts":{
+        "dev":"live-server",
+        "build":"echo build"
+    }
+}

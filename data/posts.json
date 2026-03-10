@@ -1,0 +1,14 @@
+[
+    {
+        "title":"Apprendre Git",
+        "content":"Git est un système de versionning très utilisé." 
+    },
+    {
+        "title":"Branches",
+        "content":"Les branches permettent de développer des features." 
+    },
+    {
+        "title":"Merge",
+        "content":"Le merge sert à fusionner les branches." 
+    }
+]
